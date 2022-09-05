@@ -1,6 +1,6 @@
 # Video Game Gender Issues
 
-## UI Challenge
+## Infographic Poster
 
 __Roles__
 - Researcher
@@ -8,7 +8,7 @@ __Roles__
 - Visual Designer
 
 __Date and Time__
-- 10.25.19
+- 09.01.18 to 10.13.18
 
 __Tools__
 - Adobe Photoshop
@@ -27,7 +27,34 @@ As a challenge given through my class at RMCAD, I made the decision to address a
 
 ## Discovery & Research Analysis
 
-A main criticism about Gender Issues in the video-game industry is presented in a way that flags men as the instigators and cause. This would have not been problematic if the research and information was better presented. Most of the research initial involved looking through Feminist Frequency Video Series.  To achieve an objective stance,  information regarding the quantitative data was needed.
+A main criticism about Gender Issues in the video-game industry is presented in a way that flags men as the instigators and cause. This would have not been problematic if the research and information was better presented. Most of the research initial involved looking through Feminist Frequency[^1] Video Series.  To achieve an objective stance,  information regarding the quantitative data was needed.
+
+[^1]: Anita Sarkeesian, Jae Lin. Feminist Frequency, September 1, 2018. https://feministfrequency.com/
+
+<i>Information architecture done with post-it notes</i>
+<br>
+<img src="assets/images/Vang_PaperPrototype.jpg" alt="Information architecture done with post-it notes." height="400" width="auto">
+
+<i>Information architecture digital</i>
+<br>
+<img src="assets/images/Vang_DigitalFlowChart.png" alt="Information architecture done in Adobe Illustrator. Copy of the physical post-it notes." height="400" width="auto">
 
 ---
 
+## Sketches & Ideation
+
+<i>Early sketch detailing a few icons and layout</i>
+<br>
+<img src="assets/images/Vang_CompositionSketches small.png" alt="Early sketch showing iconography and symbols to create a poster in a shape of a heart." height="400" width="auto">
+
+<i>Vector Skecth of the poster</i>
+<br>
+<img src="assets/images/Vang_CompositionSketches2-01 small.png" alt="Early vector sketch of the poster at a mid-level fidelity" height="400" width="auto">
+
+<i>Early Sprite Sheet</i>
+<br>
+<img src="assets/images/Sprite Sheet.png" alt="Sprite sheet used to created the first draft of the poster" height="400" width="auto">
+
+<i>Early Sprite Sheet</i>
+<br>
+<img src="assets/images/Sprite Sheet.png" alt="Sprite sheet used to created the first draft of the poster" height="400" width="auto">
