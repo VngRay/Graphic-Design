@@ -51,10 +51,71 @@ A main criticism about Gender Issues in the video-game industry is presented in 
 <br>
 <img src="assets/images/Vang_CompositionSketches2-01 small.png" alt="Early vector sketch of the poster at a mid-level fidelity" height="400" width="auto">
 
-<i>Early Sprite Sheet</i>
-<br>
-<img src="assets/images/Sprite Sheet.png" alt="Sprite sheet used to created the first draft of the poster" height="400" width="auto">
+---
+
+Illustrative concept created with a sprite sheet. Information displayed as a video-game dungeon. More information about sprites sheet [here](https://www.codeandweb.com/what-is-a-sprite-sheet)[^2].
+
+[^2]: Andreas Löw. What is a Sprite Sheet, September 01, 2018. https://www.codeandweb.com/what-is-a-sprite-sheet
 
 <i>Early Sprite Sheet</i>
 <br>
-<img src="assets/images/Sprite Sheet.png" alt="Sprite sheet used to created the first draft of the poster" height="400" width="auto">
+<img src="assets/images/Sprite Sheet.png" alt="Sprite sheet used to created the first draft of the poster" height="200" width="auto">
+
+<i>Draft One</i>
+<br>
+<img src="assets/images/Building Small.png" alt="A detailed sprite dungeon built from the sprite sheet." height="200" width="auto">
+
+<i>Female Sprite</i>
+<br>
+<img src="assets/images/Elements for Poster-19.png" alt="Sprite to represent female data points" height="200" width="auto">
+
+<i>Male Sprite</i>
+<br>
+<img src="assets/images/Elements for Poster-20.png" alt="Sprite to represent male data points" height="200" width="auto">
+
+<i>Frdige of Bodies Sprite</i>
+<br>
+<img src="assets/images/Elements for Poster-07.png" alt="Body parts shoved into a refrigerator" height="200" width="auto">
+
+<i>Bowsette Sprite</i>
+<br>
+<img src="assets/images/Elements for Poster-24.png" alt="Sprite of Bowsette" height="200" width="auto">
+
+<i>Heart Sprite</i>
+<br>
+<img src="assets/images/Elements for Poster-23.png" alt="Sprite of a heart" height="200" width="auto">
+
+<i>Computer desk sprite</i>
+<br>
+<img src="assets/images/Elements for Poster-107.png" alt="Sprites of a computer desk from the front and side" height="200" width="auto">
+
+<i>Morrigan Sprite</i>
+<br>
+<img src="assets/images/Elements for Poster-01.png" alt="Sprite of Morrigan" height="200" width="auto">
+
+<i>Sprite of Scales</i>
+<br>
+<img src="assets/images/Elements for Poster-26.png" alt="Sprite of law scales" height="200" width="auto">
+
+---
+
+## Style Guide
+
+|Colors|||
+|--|--|--|
+|White<br>#FFFFFF<br>255, 255, 255|Dark Blue<br>#0A1629<br>10, 20, 31|Leaf Green<br>#83B84A<br>131, 184, 74|
+|Dark Purple<br>#9E1F63<br>158, 31, 99|Rich Black<br>#000000<br>0,0,0|--|
+
+__Fonts__
+
+- Agency FB Bold
+- Lora Bold
+
+---
+
+## Solution and Impact
+
+With data visualization being represented by video-game icons and imagery, information regarding Gender Issues can be non-invasive to male-gamers. 
+
+<br>
+<img src="assets/images/Vang_Infographic_Poster-01.png" alt="Sprite of law scales" height="auto" width="auto">
